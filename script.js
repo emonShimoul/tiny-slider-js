@@ -1,3 +1,5 @@
+// docs: https://www.npmjs.com/package/tiny-slider
+
 let slider = tns({
     container: ".my-slider",
     "slideBy": "1",
@@ -5,6 +7,7 @@ let slider = tns({
     "nav": false,
     autoplay: true,
     controls: true,
+    controlsPosition: "bottom",
     autoplayButtonOutput: false,
     responsive: {
         1600: {
