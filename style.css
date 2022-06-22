@@ -52,6 +52,26 @@
     transform: scale(1);
 }
 
+.img-1{
+    background-image: url('images/slider1.jpg');
+}
+
+.img-2{
+    background-image: url('images/slider2.jpg');
+}
+
+.img-3{
+    background-image: url('images/slider3.jpg');
+}
+
+.img-4{
+    background-image: url('images/slider4.jpg');
+}
+
+.img-5{
+    background-image: url('images/slider5.jpg');
+}
+
 @media(max-width: 1600px) {
     .container{
         width: 100%;
